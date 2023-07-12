@@ -1,6 +1,6 @@
 # QUART-DE-SINGE-Game-
 
-# 1. Présentation du Projet**
+# 1. Présentation du Projet
 
 Il s'agit d'un jeu de mots nommé "Quart de Singe" qui peut se jouer par deux joueurs ou plus. Durant la partie, plusieurs manches
 peuvent se dérouler, une nouvelle manche commence suite à la gratification d'un joueur d'un quart de signe. La partie se termine suite à la première récolte de 4 quarts de singe par l'un des joueurs (qui peut être soit humain soit robot )
